@@ -1,11 +1,10 @@
 Metadata:
-    prep time: 30 minutes
-    description: These lemon blueberry scones are bursting with juicy blueberries and delicious lemon zing! They’re buttery and moist with crisp crumbly edges and soft flaky centers. Read through the recipe before beginning. You can skip the chilling for 15 minutes prior to baking, but I highly recommend it to prevent the scones from over-spreading.
-    total time: 1 hour
     cook time: 25 minutes
-    yield: 8 large scones
-    author: Sally
     source: https://sallysbakingaddiction.com/glazed-lemon-blueberry-scones/
+    yield: 8 large scones
+    prep time: 30 minutes
+    descripton: These lemon blueberry scones are bursting with juicy blueberries and delicious lemon zing! They’re buttery and moist with crisp crumbly edges and soft flaky centers. Read through the recipe before beginning. You can skip the chilling for 15 minutes prior to baking, but I highly recommend it to prevent the scones from over-spreading.
+    author: Sally
 
 Ingredients:
     baking powder                 2.5 tsp

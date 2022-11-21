@@ -1,0 +1,30 @@
+Metadata:
+    author: @rachel_loaf
+    descripton: Their current go-to for an easy Asian-American weeknight meal.
+    source: TokTok
+    prep time: 5 minutes
+    yield: Not provided
+    cook time: Not provided
+
+Ingredients:
+    black vinigar                 some
+    chili powder                  1 tbsp
+    green onion                   2 bulbs
+    oil                           4 tbsp
+    silken extra-firm tofu        1 block
+    soy sauce                     some
+    szechwan peppercorns          2 tsp
+
+Steps:
+     1. Take silken extra-firm tofu and pat dry to remove excess packing water. Transfer to a heat-safe
+        dish (preferably a shallow bowl as you will be adding a fair amount of liquid).
+        [silken extra-firm tofu: 1 block]
+     2. Chop the green part of roughly green onion on a bias and place on the center of the dried block
+        of tofu. Top with roughly chili powder and freshly ground szechwan peppercorns.
+        [chili powder: 1 tbsp; green onion: 2 bulbs; szechwan peppercorns: 2 tsp]
+     3. In a pan, heat up oil  until it just begins to smoke. Carefully pour this oil overtop the tofu
+        and spices.
+        [oil: 4 tbsp]
+     4. Finish topping with soy sauce and black vinigar to taste. Serve with rice, noodles, or watever
+        sides you have available.
+        [black vinigar: some; soy sauce: some]
