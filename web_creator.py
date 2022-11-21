@@ -1,4 +1,6 @@
 import os
+import shutil
+import re
 
 def index_files(folder_path:str) -> list:
     files = []
@@ -9,20 +11,30 @@ def index_files(folder_path:str) -> list:
 
 def folder_to_links(folder_path:str) -> list:
     files = index_files(folder_path)
-    links = []
+    files.sort()
+    links = ['<ul>', '</ul>']
     for file in files:
-        link = f'<a href="./Formatted/{file}.txt" target="_self">{file}</a>'
-        links.append(link)
+        link = f'<li><a href="./Formatted/{file}.txt" target="_self">{file}</a></li>'
+        links.insert(len(links)-1, link)
     return links
 
 def create_index(folder_path:str) -> None:
-    index_file = open('index.html', 'w')
-    index_file.write('<html>\n<head>\n\t<title>Index</title>\n</head>\n')
-    index_file.write('<body>\n')
-    for line in folder_to_links(folder_path):
-        index_file.write(f'\t{line}</br>\n')
-    index_file.write('</body>\n</html>')
-    index_file.close()
+    shutil.copy('web/index.html', './')
+
+def update_index(folder_path:str) -> None:
+    links = '\n'.join([l for l in folder_to_links(folder_path)])
+    matching_string = r'(?<=<!--Begin Recipies-->\s)[\S\s]*(?=\s<!--End Recipies-->)'
+    file_contents = ''
+
+    if not os.path.isfile('index.html'):
+        create_index(folder_path)
+
+    with open('index.html') as f:
+        file_contents = f.read()
+    file_contents = re.sub(matching_string, links, file_contents)
+
+    with open('index.html', 'w') as f:
+        f.write(file_contents)
 
 if __name__ == "__main__":
-    create_index("./Formatted")
+    update_index("./Formatted")
