@@ -1,5 +1,4 @@
 import os
-import shutil
 import re
 
 def index_files(folder_path:str) -> list:
@@ -19,7 +18,12 @@ def folder_to_links(folder_path:str) -> list:
     return links
 
 def create_index(folder_path:str) -> None:
-    shutil.copy('web/index.html', './')
+    content = ['<html>','<head>','\t<title>Recipe Book</title>','</head>','<style>',
+                '\ta:link, a:visited { color: blue }','</style>','<body>','\t<h4>My Collected Recipies</h4>',
+                '\t<hr>','<!--Begin Recipies-->','','<!--End Recipes-->','</body>','</html>']
+    content = '\n'.join(content)
+    with open('index.html', 'w') as f:
+        f.write(content)
 
 def update_index(folder_path:str) -> None:
     links = '\n'.join([l for l in folder_to_links(folder_path)])
