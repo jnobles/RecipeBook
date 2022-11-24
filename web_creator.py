@@ -3,9 +3,9 @@ import re
 
 def index_files(folder_path:str) -> list:
     files = []
-    for object in os.listdir(folder_path):
-        if os.path.isfile(os.path.join(folder_path, object)):
-            files.append(os.path.splitext(object)[0])
+    for item in os.listdir(folder_path):
+        if os.path.isfile(os.path.join(folder_path, item)):
+            files.append(os.path.splitext(item)[0])
     return files
 
 def folder_to_links(folder_path:str) -> list:
