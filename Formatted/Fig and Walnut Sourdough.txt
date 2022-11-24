@@ -1,10 +1,10 @@
 Metadata:
-    descripton: Not provided
     prep time: Not provided
-    yield: 1 large loaf
+    descripton: Not provided
     author: Susan Reid
     cook time: Not provided
     source: https://www.kingarthurbaking.com/recipes/fig-and-walnut-sourdough-recipe
+    yield: 1 large loaf
 
 Ingredients:
     All-Purpose flour             360 g

@@ -1,10 +1,10 @@
 Metadata:
-    source: https://www.kingarthurbaking.com/recipes/quick-sourdough-herb-and-scallion-pancakes-recipe
-    author: Charlotte Rutledge
     cook time: 5 minutes
-    descripton: Not provided
-    yield: Not provided
+    source: https://www.kingarthurbaking.com/recipes/quick-sourdough-herb-and-scallion-pancakes-recipe
     prep time: 5 minutes
+    descripton: Not provided
+    author: Charlotte Rutledge
+    yield: Not provided
 
 Ingredients:
     baking powder                 1 tsp

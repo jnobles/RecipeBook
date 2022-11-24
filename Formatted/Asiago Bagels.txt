@@ -1,10 +1,10 @@
 Metadata:
-    prep time: 4 hours
+    descripton: These bagels are made with an Italian cheese
     yield: 12 bagels
     author: Michelle
-    source: https://www.browneyedbaker.com/asiago-bagels/
-    descripton: These bagels are made with an Italian cheese
     cook time: 15 minutes
+    source: https://www.browneyedbaker.com/asiago-bagels/
+    prep time: 4 hours
 
 Ingredients:
     Asiago cheese                 325 g

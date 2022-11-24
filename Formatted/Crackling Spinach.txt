@@ -1,10 +1,10 @@
 Metadata:
-    author: @therealmonicasingh
     descripton: Their daughter's favorite Indo-Chinese appetizer!
     source: TokTok
+    author: @therealmonicasingh
     yield: Not provided
-    cook time: Not provided
     prep time: Not provided
+    cook time: Not provided
 
 Ingredients:
     garlic                        2 tbsp
