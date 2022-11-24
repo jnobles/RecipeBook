@@ -2,9 +2,9 @@ Metadata:
     source: TokTok
     descripton: Their current go-to for an easy Asian-American weeknight meal.
     author: @rachel_loaf
+    cook time: Not provided
     yield: Not provided
     prep time: 5 minutes
-    cook time: Not provided
 
 Ingredients:
     black vinigar                 some
