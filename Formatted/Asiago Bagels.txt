@@ -1,10 +1,10 @@
 Metadata:
-    author: Michelle
     yield: 12 bagels
+    prep time: 4 hours
     cook time: 15 minutes
     descripton: These bagels are made with an Italian cheese
     source: https://www.browneyedbaker.com/asiago-bagels/
-    prep time: 4 hours
+    author: Michelle
 
 Ingredients:
     Asiago cheese                 325 g
@@ -79,5 +79,5 @@ Steps:
         a 180-degree rotation. After the rotation, lower the oven temperature to 450F and continue bking
         for about 8 minutes, or until the bagels turn golden brown.
         [–]
-    12. Remove the pans from the oven and lat the bagels cool on a rack for 15 minutes before serving.
+    12. Remove the pans from the oven and let the bagels cool on a rack for 15 minutes before serving.
         [–]
