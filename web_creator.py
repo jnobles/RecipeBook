@@ -19,10 +19,10 @@ def folder_to_links(folder_path:str) -> list:
 def create_index(folder_path:str) -> None:
     content = ['<html>','<head>','\t<title>Recipe Book</title>','</head>','<style>',
                 '\ta:link, a:visited { color: blue }', '\tul { list-style-type: none}',
-                '\tdiv { padding-top: 1vh; width: 400px; margin: auto }','\th3 { text-align: center }',
-                '</style>','<body>','\t<div>','\t\t<h3>My Collected Recipies</h3>','\t\t<hr>',
-                '\t\t<ul>','<!--Begin Recipes-->','','<!--End Recipes-->','\t\t</ul>','\t</div>',
-                '</body>','</html>']
+                '\tdiv { padding-top: 1vh; width:100% ; max-width: 600px; margin: auto }',
+                '\th3 { text-align: center }','</style>','<body>','\t<div>',
+                '\t\t<h3>My Collected Recipies</h3>','\t\t<hr>','\t\t<ul>','<!--Begin Recipes-->',
+                '','<!--End Recipes-->','\t\t</ul>','\t</div>','</body>','</html>']
     content = '\n'.join(content)
     with open('index.html', 'w') as f:
         f.write(content)
