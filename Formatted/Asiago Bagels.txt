@@ -1,10 +1,10 @@
 Metadata:
-    yield: 12 bagels
+    description: These bagels are made with an Italian cheese
     prep time: 4 hours
-    cook time: 15 minutes
-    descripton: These bagels are made with an Italian cheese
-    source: https://www.browneyedbaker.com/asiago-bagels/
+    yield: 12 bagels
     author: Michelle
+    source: https://www.browneyedbaker.com/asiago-bagels/
+    cook time: 15 minutes
 
 Ingredients:
     Asiago cheese                 325 g
@@ -27,11 +27,11 @@ Cookware:
     slotted spoon
 
 Steps:
-     1. To make the songe, stir the yeast into the bread flour in a 4-quart mixing bowl. Add water,
+     1. To make the sponge, stir the yeast into the bread flour in a 4-quart mixing bowl. Add water,
         whisking or stirring only until it forms a smooth, sticky batter. Cover the bowl with plastic wrap
         and leave at room temperature for approximately 2 hours, or until the mixture becomes very foamy
         and bubbly. It should swell to nearly double in size and collapse when the bowl is tapped on the
-        countertop.
+        counter-top.
         [bread flour: 500 g; water: 625 mLs; yeast: 1 tsp]
      2. To make the dough, in the same mixing bowl add the additional yeast to the sponge and stir. Then
         add bread four, salt and malt powder.  Stir until the ingredients from a ball, slowly working in the
@@ -39,9 +39,9 @@ Steps:
         [bread flour: 95 g; bread four: 375 g; malt powder: 2 tsp; salt: 2.5 tsp; yeast: 0.5 tsp]
      3. Transfer the dough to the counter and knead for at least 10 minutes. Add the shredded Asiago
         cheese during the last minute or so of kneading, and knead until evenly distributed. The dough
-        should be dirm, stiffer than French bread dough, but still pliable and smooth. There should be no
+        should be firm, stiffer than French bread dough, but still pliable and smooth. There should be no
         raw flout - all the ingredients should be hydrated. The dough should pass the windowpane test and
-        tegister 77 to 81F. If the dough seems dry and rips, add a few drops of water and continue
+        register 77 to 81F. If the dough seems dry and rips, add a few drops of water and continue
         kneading. If the dough seems sticky or tacky, add more flour to achieve the stiffness required. The
         kneaded dough should feel satiny and pliable but not be tacky.
         [Asiago cheese: 225 g]
@@ -50,11 +50,11 @@ Steps:
      5. Cover the rolls with a damp towel and allow to rest for approximately 20 minutes.
         [–]
      6. Line two sheet pans with parchment paper and mist lightly with oil. Proceed with shaping the
-        bagels: Push a hole through the center of the roll owth your thumb and stretch out the hole to 2.5
+        bagels: Push a hole through the center of the roll with your thumb and stretch out the hole to 2.5
         inches in diameter, making sure that the resulting ring has a fairly even thickness all the way
         around.
         [–]
-     7. Place each of the shaped pieces 2 inches apart on the pan. Mist the bagels lighly with oil and
+     7. Place each of the shaped pieces 2 inches apart on the pan. Mist the bagels lightly with oil and
         cover loosely with plastic wrap. Let the pans sit at room temperature for 20 minutes.
         [–]
      8. Check to see if the bagels are ready to be retarted in the refridgerator by using the float

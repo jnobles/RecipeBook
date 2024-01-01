@@ -1,10 +1,10 @@
 Metadata:
-    yield: 2 loaves
+    author: Julie Clark
+    description: A delicious way to use up sourdough discard! This soft Sourdough Pumpkin Bread recipe with cinnamon sugar topping makes two loaves.
     prep time: 15 minutes
     cook time: 1 hour
+    yield: 2 loaves
     source: https://www.tastesoflizzyt.com/sourdough-pumpkin-bread/
-    author: Julie Clark
-    descripton: A delicious way to use up sourdough discard! This soft Sourdough Pumpkin Bread recipe with cinnamon sugar topping makes two loaves.
 
 Ingredients:
     baking powder                 1 tsp.

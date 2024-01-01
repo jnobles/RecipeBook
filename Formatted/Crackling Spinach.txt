@@ -1,10 +1,10 @@
 Metadata:
-    descripton: Their daughter's favorite Indo-Chinese appetizer!
-    source: TokTok
+    description: Their daughter's favorite Indo-Chinese appetizer!
     author: @therealmonicasingh
     yield: Not provided
-    prep time: Not provided
     cook time: Not provided
+    source: TokTok
+    prep time: Not provided
 
 Ingredients:
     garlic                        2 tbsp
@@ -24,9 +24,9 @@ Steps:
         [spinach: 16 ozs]
      2. In a pot, add an oil of your choice (in a quantity for frying) and heat until you begin to see
         the surface of the oil ripple. Add the spinach, being careful as the water in the spinach will
-        cause the oil to foam and pop as it is added. Fry the spinach for 2 minutes, stiring frequently.
+        cause the oil to foam and pop as it is added. Fry the spinach for 2 minutes, stirring frequently.
         [oil: some]
-     3. After the 2 minutes, remove the spinach using a spider and remove to a papertowel to drain
+     3. After the 2 minutes, remove the spinach using a spider and remove to a paper towel to drain
         excess oil. Continue for as many batches needed to fry your prepared spinach.
         [–]
      4. Once finished frying the spinach, place garlic, minced, and ginger, finely chopped, into the

@@ -1,12 +1,12 @@
 Metadata:
-    serves: 4
-    yields: 8 cups
-    description: This Lemony Artichoke and Quinoa Salad is a light and refreshing summer salad that holds up well in the refrigerator and is perfect for meal prep!
-    prep time: 20 minutes
-    cook time: 20 minutes
     total time: 40 minutes
+    yields: 8 cups
     author: Beth
+    description: This Lemony Artichoke and Quinoa Salad is a light and refreshing summer salad that holds up well in the refrigerator and is perfect for meal prep!
     source: https://www.budgetbytes.com/lemony-artichoke-and-quinoa-salad/
+    cook time: 20 minutes
+    serves: 4
+    prep time: 20 minutes
 
 Ingredients:
     artichoke hearts              some
@@ -27,17 +27,17 @@ Cookware:
     pot
 
 Steps:
-     1. Rinse the quinoa well in a fine wire mesh sieve. Place the rinsed quinmoa in a pot with water.
+     1. Rinse the quinoa well in a fine wire mesh sieve. Place the rinsed quinoa in a pot with water.
         Cover the pot with a lid, set the heat to high, and allow the water to come to a boil. Once it
         reaches a full boil, turn the heat down to low and let simmer for 15 minutes (lid on).
         [quinoa: 1 cup; water: 1.8 cups]
-     2. While the quinoa is cooking, prepare the kemon garlic dressing. Zest the lemon, then squeeze the
+     2. While the quinoa is cooking, prepare the lemon garlic dressing. Zest the lemon, then squeeze the
         juice. Add the lemon juice and lemon zest to a bowl or jar along with olive oil, minced garlic,
         salt, and freshly cracked pepper. Whist the ingredients together until emulsified. Set the dressing
         aside.
         [garlic: some; lemon juice: 0.33 cups; lemon zest: 1 tsp; olive oil: some; pepper: some; salt: some]
      3. After the quinoa has cooked, spread it out into a casserole dish or other wide, shallow dish and
-        refridgerate uncovered for about 15 minutes to cool.
+        refrigerate uncovered for about 15 minutes to cool.
         [–]
      4. While the quinoa is cooling, prepare the est of the salad ingredients. Drain the artichoke
         hearts and roughly chop them into smaller pieces. Finely dice the red bell pepper. Roughly chop the
@@ -46,5 +46,5 @@ Steps:
         [artichoke hearts: some; chickpeas: some; parsley: some; red bell pepper: some]
      5. Once the quinoa has cooled, add it to the bowl with the other salad ingredients. Toss gently to
         combine, then drizzle the lemon garlic dressing over-top. Toss again until everything is coated in
-        dressing. Serve immediately or refridgerate up to 4-5 days.
+        dressing. Serve immediately or refrigerate up to 4-5 days.
         [–]

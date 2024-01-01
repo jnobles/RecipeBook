@@ -1,9 +1,9 @@
 Metadata:
-    prep time: Not provided
-    descripton: Not provided
-    author: Susan Reid
+    description: Not provided
     cook time: Not provided
+    prep time: Not provided
     source: https://www.kingarthurbaking.com/recipes/fig-and-walnut-sourdough-recipe
+    author: Susan Reid
     yield: 1 large loaf
 
 Ingredients:
@@ -37,8 +37,8 @@ Steps:
         You're strengthening the dough and pre-shaping it at the same time.
         [–]
      6. Flour the banneton you want to use, or a tea towel places inside a bowl with a shape you find
-        pleasing. Place the rounded dough into the banneton or bown, bottom side up, over with plastic
-        wrap, and refridgerate overnight.
+        pleasing. Place the rounded dough into the banneton or bowl, bottom side up, over with plastic
+        wrap, and refrigerate overnight.
         [–]
      7. The next morning, preheat the oven to 450F with a baking stone in the lower third. Put an inch
         of water into a small skillet that can go into the oven. Place a piece of parchment on a baker's
@@ -53,6 +53,6 @@ Steps:
         [–]
     10. Remove from the oven and cool on a rack before slicing.
         [–]
-    11. Store leaftover bread, well wrapped, at room temperature for several days; freeze for longer
+    11. Store leftover bread, well wrapped, at room temperature for several days; freeze for longer
         storage.
         [–]

@@ -1,6 +1,6 @@
 Metadata:
-    source: www.practicalselfreliance.com/homemade-worcestershire-sauce/
     author: Ashley Adamant
+    source: www.practicalselfreliance.com/homemade-worcestershire-sauce/
 
 Ingredients:
     anchovies                     2 oz.s
@@ -14,8 +14,8 @@ Ingredients:
     ground cinnamon               0.5 tsp
     kosher salt                   2 tbsp
     onion                         1
-    rasins                        0.25 cups
-    tamarand paste                0.25 cups
+    raisins                       0.25 cups
+    tamarind paste                0.25 cups
     un-sulfured molasses          0.5 cups
     vinegar                       1 cup
     water                         0.25 cups
@@ -27,15 +27,15 @@ Cookware:
     fine mesh sieve
 
 Steps:
-     1. Pour boiling water over rasins in a small bowl and allow to stand for 15 minutes until rasins
+     1. Pour boiling water over raisins in a small bowl and allow to stand for 15 minutes until raisins
         are softened. Drain and discard the water.
-        [rasins: 0.25 cups; water: 0.25 cups]
-     2. Place the rasins, un-sulfured molasses, tamarand paste, anchovies, onion (coursely chopped),
+        [raisins: 0.25 cups; water: 0.25 cups]
+     2. Place the raisins, un-sulfured molasses, tamarind paste, anchovies, onion (coarsely chopped),
         ginger (peeled and chopped), garlic (crushed), and vinegar into a food processor. Process until
         smooth.
-        [anchovies: 2 oz.s; garlic: 7 cloves; ginger: 1 in.; onion: 1; tamarand paste: 0.25 cups; un-sulfured
+        [anchovies: 2 oz.s; garlic: 7 cloves; ginger: 1 in.; onion: 1; tamarind paste: 0.25 cups; un-sulfured
         molasses: 0.5 cups; vinegar: 1 cup]
-     3. Pour the pureed mixture into a saucepan and add the remanining ingredients (white vinegar,
+     3. Pour the pureed mixture into a saucepan and add the remaining ingredients (white vinegar,
         cardamom, kosher salt, brown sugar , crushed red pepper flakes, dry mustard, whole cloves, black
         peppercorns, and ground cinnamon). Bring the whole mixture to a boil, then remove from heat.
         [black peppercorns: 1 tsp; brown sugar: 2 tbsp; cardamom: 2 pods; crushed red pepper flakes: 1 tbsp;
@@ -44,5 +44,5 @@ Steps:
      4. Pour the mixture into a 1 quart canning jar, seal with a plastic lid, and store in a cool, dark
         place for at least 1 month (or longer for stronger flavors).
         [–]
-     5. After aging, pour the sauce throuh a fine mesh sieve before use.
+     5. After aging, pour the sauce through a fine mesh sieve before use.
         [–]

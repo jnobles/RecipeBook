@@ -1,10 +1,10 @@
 Metadata:
-    descripton: Not provided
-    cook time: 45 minutes
     yield: Not provided
     source: https://www.allrecipes.com/recipe/197683/simple-roasted-chickpea-snack/
     author: cheldi
+    description: Not provided
     prep time: 10 minutes
+    cook time: 45 minutes
 
 Ingredients:
     chickpeas                     1 can
@@ -28,6 +28,6 @@ Steps:
         Spread in a single layer on a baking sheet.
         [chickpeas: 1 can; chili powder: 0.5 tsp; crushed red pepper: 1 dash; garlic powder: 1 tsp; ground
         black pepper: 1 pinch; ground cumin: 1 tbsp; olive oil: 2 tbsp; sea salt: 1 pinch]
-     3. Roast in the oven, stirring occasionally, until nicely browned and slighly crispy, about 45
+     3. Roast in the oven, stirring occasionally, until nicely browned and slightly crispy, about 45
         minutes.
         [–]
